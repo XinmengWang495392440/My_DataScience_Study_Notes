@@ -5,4 +5,6 @@
 ## Machine Learning Notes
 ## Deep Learning Notes
 ## Linux and Shell Learning Notes
+	- 在Mac上安装VMware Fusion Linux虚拟机 20191010
+
 ## Project Summary
