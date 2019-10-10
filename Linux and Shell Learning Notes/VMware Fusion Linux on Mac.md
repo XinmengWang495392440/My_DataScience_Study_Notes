@@ -31,7 +31,7 @@
         * [root@localhost tmp]# cd vmware-tools-distrib
         * [root@localhost tmp]# ls 看见有对应的vmware-install.pl 文件
         * [root@localhost vmware-tools-distrib]# ./vmware-install.pl //安装开始
-        * **中途可能遇到现实cannot file file的情况，需要sudo yum install perl\* **
+        **\* 中途可能遇到现实cannot file file的情况，需要sudo yum install perl\* **
         * 一路回车，安装完成。
     * 安装tools完成后，进入/mnt，看见hgfs文件夹。
     * 进入共享设置，选择本地需共享的文件夹。（尽量名称全英文，中文会有点问题）
